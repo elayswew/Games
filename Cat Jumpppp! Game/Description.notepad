@@ -1,1 +1,0 @@
-{"bgColorIndex":0,"textColorIndex":1,"note":"This program is a game written using pygame\nIt has three levels. As the level gets higher, the block will move faster.\nThe score is count by how long the game continues.\nIt contains a restart feature that allows the player to play the game again"}
