@@ -1,0 +1,4 @@
+This program is a game written using pygame
+It has three levels. As the level gets higher, the block will move faster.
+The score is count by how long the game continues.
+It contains a restart feature that allows the player to play the game again
